@@ -27,5 +27,5 @@ for i in range(0,k-1):
     new_data.columns = column_name
 
     merge = pd.concat([merge,new_data.iloc[:,4]],axis=1)
-print(merge)
+#print(merge)
 merge.to_csv('../Radiation_Record/merge_panel_radiation.csv',index=False)
