@@ -1,0 +1,1 @@
+https://api.darksky.net/forecast/a40f38a7e918fb1d240f8489558fc6cf/47.37,8.54
